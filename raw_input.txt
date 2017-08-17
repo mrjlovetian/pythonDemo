@@ -1,0 +1,7 @@
+raw_input
+print
+text = open(filename, 'w')
+txt = text.read()
+def function:
+	print "lalal"
+
